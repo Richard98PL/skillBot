@@ -1,0 +1,13 @@
+C:\Users\Ryszard\source\repos\skillBot\obj\Debug\skillBot.csprojAssemblyReference.cache
+C:\Users\Ryszard\source\repos\skillBot\obj\Debug\skillBot.Form1.resources
+C:\Users\Ryszard\source\repos\skillBot\obj\Debug\skillBot.Properties.Resources.resources
+C:\Users\Ryszard\source\repos\skillBot\obj\Debug\skillBot.csproj.GenerateResource.cache
+C:\Users\Ryszard\source\repos\skillBot\obj\Debug\skillBot.csproj.CoreCompileInputs.cache
+C:\Users\Ryszard\source\repos\skillBot\bin\Debug\skillBot.exe.config
+C:\Users\Ryszard\source\repos\skillBot\bin\Debug\skillBot.exe
+C:\Users\Ryszard\source\repos\skillBot\bin\Debug\skillBot.pdb
+C:\Users\Ryszard\source\repos\skillBot\bin\Debug\Memory.dll
+C:\Users\Ryszard\source\repos\skillBot\bin\Debug\Memory.xml
+C:\Users\Ryszard\source\repos\skillBot\obj\Debug\skillBot.csproj.CopyComplete
+C:\Users\Ryszard\source\repos\skillBot\obj\Debug\skillBot.exe
+C:\Users\Ryszard\source\repos\skillBot\obj\Debug\skillBot.pdb
